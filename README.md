@@ -1,3 +1,5 @@
+![BloonsTD6-Auto-Skill](https://socialify.git.ci/USYDShawnTan/BloonsTD6-Auto-Skill/image?font=Rokkitt&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
+
 # KeyBinderApp
 
 KeyBinderApp 是一个自动按键工具，它能够在 BloonsTD6.exe 游戏窗口内自动按键。该工具使用 PyQt5 构建图形用户界面，并使用 pynput 和 pygetwindow 库进行按键操作和窗口检测。
