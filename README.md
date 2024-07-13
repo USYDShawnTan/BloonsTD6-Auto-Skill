@@ -1,4 +1,4 @@
-![BloonsTD6-Auto-Skill](https://socialify.git.ci/USYDShawnTan/BloonsTD6-Auto-Skill/image?font=Rokkitt&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
+![BloonsTD6-Auto-Skill](https://socialify.git.ci/USYDShawnTan/BloonsTD6-Auto-Skill/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
 
 # KeyBinderApp
 
@@ -11,6 +11,8 @@ KeyBinderApp 是一个自动按键工具，它能够在 BloonsTD6.exe 游戏窗�
 - 图形用户界面：简单易用的按钮界面。
 
 ## 截图
+
+![image.png](https://s2.loli.net/2024/07/13/bnf4Mj8Wg6ltkqN.png)
 
 ## 使用
 
