@@ -19,3 +19,7 @@ KeyBinderApp 是一个自动按键工具，它能够在 BloonsTD6.exe 游戏窗�
 ## 使用
 
 - 旁边有有下载 不过你也可以 git 下来了自己编译
+
+## 许可证
+
+本项目基于 MIT 许可证进行分发。详情请参阅 [LICENSE](LICENSE) 文件。
